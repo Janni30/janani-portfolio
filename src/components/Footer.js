@@ -11,7 +11,7 @@ const Footer = () => {
             <hr />
             <div className="container mb-3">
                 <p className="text-center">
-                    &copy; {new Date().getFullYear()} - Beautifully Crafted with ❤️ and ☕ By <a style={{textDecoration: 'none'}} href="https://vandit-shah.me/" target='_blank' rel="noreferrer">Vandit Shah</a> 😊
+                    &copy; {new Date().getFullYear()} - Beautifully Crafted with ❤️ and ☕ By <a style={{textDecoration: 'none'}} href="https://Janani Priya.me/" target='_blank' rel="noreferrer">Janani Priya</a> 😊
                 </p>
                 <div class="footer-social">
                     <ul class="social-icons">

@@ -7,12 +7,13 @@
       "Full-Stack Web Developer"
     ],
     "subTitle": "Aspiring MERN stack developer with practical experience in building full-stack applications.",
-    "resumeLink": "https://drive.google.com/file/d/1llCIgxoaTHoOqcxS78vXpU363WOEmpVZ/view?usp=sharing",
+    "resumeLink": "https://drive.google.com/file/d/1G_hjeOYHDL9lBXfE62obrpGSqG1kDWwJ/view?usp=sharing",
+    
     "aboutDescription": 
     [
       "Hello! I'm Janani Priya, a passionate full-stack web developer based in Coimbatore, India.", 
       "With a strong foundation in HTML, CSS, JavaScript, PHP, and the MERN stack, I've crafted dynamic and responsive web applications.",
-      "I've gained hands-on experience through internships and projects, working with frameworks like React.js, Next.js, and integrating REST APIs.",
+      "I've gained hands-on experience through internships and projects, working with frameworks like React.js, Next.js,Node.js and integrating REST APIs.",
       "Currently pursuing my Master of Computer Applications at Bharathiar University, I'm expanding my expertise in advanced web technologies.",
       "Beyond coding, I enjoy combining design and development to create user-friendly digital experiences.",
       "I've contributed to projects like HR management systems, college event platforms, and academy websites, all focused on real-world problem-solving.",
@@ -60,14 +61,14 @@
         "title" : "Testing Tool",
         "skillname": [
          
-          {"name" : "OWSAP", "image": "ows"}, 
+          {"name" : "OWSAP", "image": "owasp"}, 
           {"name" : "Sonnarqube", "image": "sonnar"}
          ]
       },
       {
         "title" : "APITesting Tool",
         "skillname": [
-          {"name" : "Postman", "image": "post"}
+          {"name" : "Postman", "image": "posst"}
          ]
       },
       {
@@ -75,7 +76,9 @@
         "skillname": [ 
           {"name" : "Netlify", "image": "netlify"}, 
           {"name" : "Vercel", "image": "vercel"}, 
-          {"name" : "Figma", "image": "fig"}
+          {"name" : "Figma", "image": "fig"},
+          {"name" : "Linux", "image": "linux"}
+
          ]
       }
     ],
@@ -90,9 +93,10 @@
           {"name" : "HTML", "image": "html"}, 
           {"name" : "CSS", "image": "css"}, 
           {"name" : "BootStrap", "image": "bs"},
-          {"name" : "Vercel", "image": "vercel"} 
+          {"name" : "GitHub", "image": "github"}
+
         ],
-        "description" : "Blackstone Infomatics, based in Coimbatore, India, specializes in web design and development, digital marketing, graphic design, UI/UX design, and app development, aiming to elevate your brand's online success.  Established in 2019, their team offers tailored solutions to enhance your digital presence.",
+        "description" : "Blackstone Infomatics is a digital services company based in Coimbatore, Tamil Nadu, India, specializing in a comprehensive range of solutions to enhance your business's online presence. Their offerings include web design and development, software and mobile app development, search engine optimization (SEO), digital marketing, graphic design, customer relationship management (CRM), and human resource management (HRM) systems. ",
         "githubLink" : "",
         "liveLink" : "https://blackstoneinfomatics.com/"
       },
@@ -105,9 +109,13 @@
         "techStack" : [
           {"name" : "Next", "image": "next"}, 
           {"name" : "React", "image": "react"},
-          {"name" : "Tailwind", "image": "tailwind"}
+          {"name" : "Vercel", "image": "vercel"},
+          {"name" : "Tailwind", "image": "tailwind"},
+          {"name" : "GitHub", "image": "github"}
+
         ],
-        "description" : "Al-Furqan's website offers online Quran and Arabic learning with structured courses and interactive lessons. It provides a user-friendly platform for students to enhance their Islamic knowledge.",
+        "description" : "Developed a dynamic website for a Quran and Arabic Language Academy using Next.js.Integrated a user-friendly interface to enhance accessibility for students and instructors.Implemented a structured curriculum section, allowing easy navigation through courses. Optimized performance for faster load times and seamless user experience."
+      ,
         "githubLink" : "",
         "liveLink" : "https://alfurqanwebsit-git-main-ansalin789s-projects.vercel.app/"
       },
@@ -125,10 +133,22 @@
           {"name" : "CSS", "image": "css"}, 
           {"name" : "Next Js", "image": "next"}, 
           {"name" : "Node Js", "image": "node"}, 
-          {"name" : "MongoDB", "image": "mdb"}
+          {"name" : "MongoDB", "image": "mdb"},
+          {"name" : "Postman", "image": "posst"},
+          {"name" : "OWSAP", "image": "owasp"},
+          {"name" : "Sonnarqube", "image": "sonnar"},
+          {"name" : "GitHub", "image": "github"},
+          {"name" : "Linux", "image": "linux"}
+
+
+
+
+
         ],
-        "description" : "Al-Furqan Academy's academic platform connects teachers, students, admins, and supervisors for seamless online Quran and Arabic learning. It offers structured courses, progress tracking, and efficient management tools.",
-        "githubLink" : "",
+        
+          "description": "Developed a comprehensive ERP solution for managing student records, staff details, courses, and financial operations, improving administrative efficiency. Built a responsive and dynamic front-end using Next.js, integrated with Node.js back-end APIs for seamless data flow and performance optimization. Designed and implemented a secure MongoDB database structure, ensuring scalable data storage and retrieval for thousands of records. Enhanced user experience with a modern interface built using Tailwind CSS and ensured secure multi-user access through role-based access control (RBAC)."
+        ,
+          "githubLink" : "",
         "liveLink" : "https://web.alfurqanacademy.tech/Academic"
       }
      
