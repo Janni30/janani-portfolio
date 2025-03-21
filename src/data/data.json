@@ -1,26 +1,26 @@
 {
   "data": {
-    "fullName": "Vandit Shah",
+    "fullName": "Janani Priya M",
     "logo" : "logo.png",
-    "email" : "shahvandit8@gmail.com",
+    "email" : "jananipriyam52002@gmail.com",
     "titleArray": [
-      "Full-Stack Web Developer",
-      "Software Developer",
-      "Blockchain Enthusiast",
-      "Computer Addict!"
+      "Full-Stack Web Developer"
     ],
-    "subTitle": "MERN stack magician, Web3 enthusiast, and part-time debugger. If you see me staring at my screen, I’m either coding… or questioning my life choices!",
-    "resumeLink": "https://docs.google.com/viewer?url=https://raw.githubusercontent.com/ShahVandit8/repo-storage/refs/heads/main/myportfolio/resume/resume.pdf",
+    "subTitle": "Aspiring MERN stack developer with practical experience in building full-stack applications.",
+    "resumeLink": "https://drive.google.com/file/d/1llCIgxoaTHoOqcxS78vXpU363WOEmpVZ/view?usp=sharing",
     "aboutDescription": 
     [
-      "Hello! I'm Vandit, a budding full-stack web developer based in Toronto, Canada.", 
-      "Since my first coding venture in 8th grade, I've been captivated by the world of technology. Armed with a Bachelor in Computer Applications, I've honed my skills in the MERN stack, Python, and Java.",
-      "Currently, I'm expanding my expertise with a focus on Blockchain Development at York University. Beyond coding, I find joy in the synergy of design and development.",
-      "In recent years, I've dived into programming, crafting a robust front-end stack, and creating projects that address real-world challenges.",
-      "Juggling design, development, and education, I am trying to dive deep into coding and make a real difference.",
-      "If you're intrigued by what I'm working on, explore my portfolio below, and let's connect for potential collaborations!"
+      "Hello! I'm Janani Priya, a passionate full-stack web developer based in Coimbatore, India.", 
+      "With a strong foundation in HTML, CSS, JavaScript, PHP, and the MERN stack, I've crafted dynamic and responsive web applications.",
+      "I've gained hands-on experience through internships and projects, working with frameworks like React.js, Next.js, and integrating REST APIs.",
+      "Currently pursuing my Master of Computer Applications at Bharathiar University, I'm expanding my expertise in advanced web technologies.",
+      "Beyond coding, I enjoy combining design and development to create user-friendly digital experiences.",
+      "I've contributed to projects like HR management systems, college event platforms, and academy websites, all focused on real-world problem-solving.",
+      "If you're interested in collaborating or exploring my work, check out my portfolio below. Let's connect!"
+
+
     ],
-    "aboutImage" : "pp.jpg",
+    "aboutImage" : "pp.jpeg",
     "skills": 
     [
       {
@@ -32,152 +32,112 @@
           {"name" : "JavaScript", "image": "javascript"}, 
           {"name" : "BootStrap", "image": "bs"}, 
           {"name" : "Tailwind", "image": "tailwind"}, 
-          {"name" : "Next Js", "image": "next"},
-          {"name" : "Shadcn UI", "image": "shadcn-ui"}]
+          {"name" : "Next Js", "image": "next"}
+          ]
       },
       {
         "title" : "Backend",
         "skillname": [
           {"name" : "Node Js", "image": "node"},
           {"name" : "Express Js", "image": "express"}, 
-          {"name" : "NPM", "image": "npm"},
+          {"name" : "PHP", "image": "php"}]
+      },
+      {
+        "title" : "Database",
+        "skillname": [
           {"name" : "MongoDB", "image": "mdb"},
           {"name" : "MySQL", "image": "mysql"}]
       },
       {
-        "title" : "Others",
+        "title" : "Version Control Tool",
         "skillname": [
-          {"name" : "Python", "image": "py"},
-          {"name" : "Java", "image": "java"},
+         
           {"name" : "Git", "image": "git"}, 
-          {"name" : "GitHub", "image": "github"}, 
+          {"name" : "GitHub", "image": "github"}
+         ]
+      },
+      {
+        "title" : "Testing Tool",
+        "skillname": [
+         
+          {"name" : "OWSAP", "image": "ows"}, 
+          {"name" : "Sonnarqube", "image": "sonnar"}
+         ]
+      },
+      {
+        "title" : "APITesting Tool",
+        "skillname": [
+          {"name" : "Postman", "image": "post"}
+         ]
+      },
+      {
+        "title" : "Others",
+        "skillname": [ 
           {"name" : "Netlify", "image": "netlify"}, 
           {"name" : "Vercel", "image": "vercel"}, 
-          {"name" : "Photoshop", "image": "ps"},
-          {"name" : "Illustrator", "image": "ill"}]
+          {"name" : "Figma", "image": "fig"}
+         ]
       }
     ],
     "projects" : [
       {
-        "projectName" : "ProfileX",
-        "projectType" : "GITHUB PROFILE BUILDER",
+        "projectName" : "BlackstoneInfomatics",
+        "projectType" : "IT Company",
         "projectImage" : [
-        "Project5/1.png"
+        "Project5/alfur.png"
       ],
         "techStack" : [
           {"name" : "HTML", "image": "html"}, 
           {"name" : "CSS", "image": "css"}, 
-          {"name" : "React", "image": "react"}, 
           {"name" : "BootStrap", "image": "bs"},
           {"name" : "Vercel", "image": "vercel"} 
         ],
-        "description" : "Create a stunning GitHub profile in minutes! Profile-X is a web app that helps you generate a customized README.md for your GitHub profile, showcasing your skills, experience, and projects.",
-        "githubLink" : "https://github.com/ShahVandit8/profile-x/",
-        "liveLink" : "https://profilex.dev/"
+        "description" : "Blackstone Infomatics, based in Coimbatore, India, specializes in web design and development, digital marketing, graphic design, UI/UX design, and app development, aiming to elevate your brand's online success.  Established in 2019, their team offers tailored solutions to enhance your digital presence.",
+        "githubLink" : "",
+        "liveLink" : "https://blackstoneinfomatics.com/"
       },
       {
-        "projectName" : "BlockchainX",
-        "projectType" : "Blockchain Simulator",
+        "projectName" : "AL Furqan Website",
+        "projectType" : "International Academic Institute",
         "projectImage" : [
-        "Project6/1.png"
+        "Project6/black.png"
       ],
         "techStack" : [
           {"name" : "Next", "image": "next"}, 
-          {"name" : "React", "image": "react"}, 
-          {"name" : "TypeScript", "image": "typescript"},
-          {"name" : "Tailwind", "image": "tailwind"},
-          {"name" : "Shadcn UI", "image": "shadcn-ui"}
+          {"name" : "React", "image": "react"},
+          {"name" : "Tailwind", "image": "tailwind"}
         ],
-        "description" : "BlockchainX is an interactive blockchain simulator to visualize mining, create wallets, and send transactions in real-time. Learn blockchain and Bitcoin mining easily.",
-        "githubLink" : "https://github.com/ShahVandit8/blockchain-simulator/",
-        "liveLink" : "https://shahvandit8.github.io/blockchain-simulator/"
+        "description" : "Al-Furqan's website offers online Quran and Arabic learning with structured courses and interactive lessons. It provides a user-friendly platform for students to enhance their Islamic knowledge.",
+        "githubLink" : "",
+        "liveLink" : "https://alfurqanwebsit-git-main-ansalin789s-projects.vercel.app/"
       },
       {
-        "projectName" : "Learning Management System",
-        "projectType" : "THE DIGITAL WORKSTATION",
+        "projectName" : "AL Furqan Academy",
+        "projectType" : "ERP",
         "projectImage" : [
-        "Project1/1. Landing Page.png", 
-        "Project1/2. Course Enrollment Page.png", 
-        "Project1/3. Student Login Page.png", 
-        "Project1/4. Student Profile Page.png", 
-        "Project1/5. My Courses Page.png", 
-        "Project1/6. Enrolled Courses Page.png", 
-        "Project1/7. Admin Dashboard.png", 
-        "Project1/8. Course Management.png", 
-        "Project1/9. Manage Course Content.png", 
-        "Project1/10. Manage Course Resources.png", 
-        "Project1/11. Manage Attendance.png", 
-        "Project1/12. Enrollment Management.png", 
-        "Project1/13. Instructor Management.png", 
-        "Project1/14. Student Management.png", 
-        "Project1/15. Contact Me Form Messages.png", 
-        "Project1/16. Instructor Dashboard.png"],
+        "Project1/academic.png", 
+        "Project1/admin.png", 
+        "Project1/student.png", 
+        "Project1/teacher.png", 
+        "Project1/super.png"],
         "techStack" : [
           {"name" : "HTML", "image": "html"}, 
           {"name" : "CSS", "image": "css"}, 
-          {"name" : "React", "image": "react"}, 
+          {"name" : "Next Js", "image": "next"}, 
           {"name" : "Node Js", "image": "node"}, 
           {"name" : "MongoDB", "image": "mdb"}
         ],
-        "description" : "LMS for an offline learning institute, facilitating student enrollment, progress tracking, and instructor interaction.",
+        "description" : "Al-Furqan Academy's academic platform connects teachers, students, admins, and supervisors for seamless online Quran and Arabic learning. It offers structured courses, progress tracking, and efficient management tools.",
         "githubLink" : "",
-        "liveLink" : "https://thedigitalworkstation.netlify.app/"
-      },
-      {
-        "projectName" : "Cafe Management System",
-        "projectType" : "78° DEGREE CAFE",
-        "projectImage" : [
-        "Project2/1.png", 
-        "Project2/2.png", 
-        "Project2/3.png", 
-        "Project2/4.png", 
-        "Project2/5.png", 
-        "Project2/6.png", 
-        "Project2/7.png", 
-        "Project2/8.png", 
-        "Project2/9.png", 
-        "Project2/10.png", 
-        "Project2/11.png"],
-        "techStack" : [
-          {"name" : "HTML", "image": "html"}, 
-          {"name" : "CSS", "image": "css"}, 
-          {"name" : "React", "image": "react"}, 
-          {"name" : "Node Js", "image": "node"}, 
-          {"name" : "MongoDB", "image": "mdb"}
-        ],
-        "description" : "CMS for local cafe to streamline its online ordering system by integrated QR codes for Tables, Managing Orders, Kitchen Tickets and Customer Management.",
-        "githubLink" : "",
-        "liveLink" : "https://78degreescafe.netlify.app/"
-      },
-      {
-        "projectName" : "Inventory Management System",
-        "projectType" : "DESKTOP APPLICATION",
-        "projectImage" : ["Project3/IMS.jpg"],
-        "techStack" : [
-          {"name" : "Java", "image": "java"}, 
-          {"name" : "MySQL", "image": "mysql"}
-        ],
-        "description" : "Created a comprehensive inventory management system using Java, Swing, and JDBC.",
-        "githubLink" : "https://github.com/ShahVandit8/Inventory_Management_System",
-        "liveLink" : ""
-      },
-      {
-        "projectName" : "Billing System",
-        "projectType" : "DESKTOP APPLICATION",
-        "projectImage" : ["Project4/Billing.jpg"],
-        "techStack" : [
-          {"name" : "Python", "image": "py"}
-        ],
-        "description" : "Developed a billing system in Python for small businesses, emphasizing ease of use and efficiency.",
-        "githubLink" : "https://github.com/ShahVandit8/Billing_System_Project",
-        "liveLink" : ""
+        "liveLink" : "https://web.alfurqanacademy.tech/Academic"
       }
+     
     ],
-    "contactParagraph" : "I'm currently open to work and get involved in new projects, so get in touch if you'd like to Hire me or work together.", 
+    "contactParagraph" : "", 
     "socialLinks" : {
-      "github" : "https://github.com/ShahVandit8",
-      "linkedin" : "https://www.linkedin.com/in/shah-vandit/",
-      "instagram" : "https://www.instagram.com/shahvandit8/"
+      "github" : "https://github.com/Janni30",
+      "linkedin" : "https://www.linkedin.com/in/m-janani-priya-140506217/",
+      "instagram" : "https://www.instagram.com/jani_maruthachalam/"
     }
   }
 }

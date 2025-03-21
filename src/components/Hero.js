@@ -12,7 +12,7 @@ const Hero = () => {
         <section>
             <div className="container hero">
                 <div className="content">
-                    <h4>Hello! 👋 My name is </h4>
+                    <h4>Hello! 👋 It's Me </h4>
                     <h1>{fullName}</h1>
                     <span>
                         <Typewriter
