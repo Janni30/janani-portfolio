@@ -7,7 +7,7 @@
       "Full-Stack Web Developer"
     ],
     "subTitle": "Aspiring MERN stack developer with practical experience in building full-stack applications.",
-    "resumeLink": "https://drive.google.com/file/d/1jLVayOS6cH77GJJAhXmXm7GJWQt0zNte/view?usp=sharing",
+    "resumeLink": "https://drive.google.com/drive/u/1/folders/1yZjjd62XH2Qn7RdYYHEfdKcaa9yzaQlv",
     
     "aboutDescription": 
     [
@@ -40,7 +40,6 @@
         "title" : "Backend",
         "skillname": [
           {"name" : "Node Js", "image": "node"},
-          {"name" : "Express Js", "image": "express"}, 
           {"name" : "PHP", "image": "php"}]
       },
       {
